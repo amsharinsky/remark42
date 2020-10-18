@@ -14,7 +14,8 @@ This documentation describes how to enable the email-related capabilities of Rem
 
 - email notifications for any users except anonymous:
 
-  GitHub or Google or Twitter or any other kind of user gets the ability to get email notifications about new replies to their comments:
+  GitHub or Google or Twitter or any other kind of user gets the ability to get
+  email notifications about new replies to their comments (and any of the replies down the tree):
 
   ![Email notifications subscription](/docs/latest/images/email_notifications.png?raw=true))
 
